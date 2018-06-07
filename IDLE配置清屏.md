@@ -7,12 +7,6 @@
 """
 
 Clear Window Extension
-Version: 0.2
-
-Author: Roger D. Serwy
-        roger.serwy@gmail.com
-
-Date: 2009-06-14
 
 It provides "Clear Shell Window" under "Options"
 with ability to undo.
