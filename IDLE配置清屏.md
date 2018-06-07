@@ -88,5 +88,5 @@ enable_shell=1
 [ClearWindow_cfgBindings]
 clear-window=<Control-Key-l>
 ```
-三:打开Python的IDLE，options选项中就可以看到增加了Clear shell window ctrl+;
+三:打开Python的IDLE，options选项中就可以看到增加了Clear shell window ctrl+l;
 * 说明:  新建的ClearWindow.py文件名一定要与在config-extensions.def中添加的[ClearWindow]内容中的名字一致，要不然找不到配置文件的，注意大小写！！！
